@@ -1,0 +1,16 @@
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.exe
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.deps.json
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.runtimeconfig.json
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.runtimeconfig.dev.json
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.dll
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\ref\suli.dll
+C:\Users\Kovi\Desktop\C#\suli\bin\Debug\net5.0\suli.pdb
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.csproj.AssemblyReference.cache
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.AssemblyInfoInputs.cache
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.AssemblyInfo.cs
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.csproj.CoreCompileInputs.cache
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.dll
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\ref\suli.dll
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.pdb
+C:\Users\Kovi\Desktop\C#\suli\obj\Debug\net5.0\suli.genruntimeconfig.cache
